@@ -1,2 +1,2 @@
 # elsogittem
-Opciónális.: pl miről szól
+## Első commitolás
